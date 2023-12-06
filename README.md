@@ -28,7 +28,7 @@ The [CIT Relay GH Series](http://citrelay.com/view_switch.php?series=GH) are ill
 I made this project initially for personal use. It is operational and free of license. 
 
 
-|:warning:**IMPORTANT: The KiCad files provided in the github repository have been translated from another commercial PCB design tool. I strongly advise to double check the PCB design files before sending to production. Please feel free to propose document updates.** |
+|:warning:**IMPORTANT: The KiCad files provided in the github repository have been translated from another commercial PCB design tool. I strongly advise to double check the KiCad PCB design files before sending to production. Please feel free to propose document updates.** |
 |-----------------------------------------|
 
 :camera:![CIT Relay GH Series Pushbutton Switches to select CPU model (red on the left) and Kickstart version (green on the right)](https://github.com/users/mutedsounds/projects/1/assets/135176179/4c770e0a-ff8a-44ca-834e-0b1e27449c4a)
