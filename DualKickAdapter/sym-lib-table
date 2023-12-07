@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "DualKickAdapter-altium-import")(type "KiCad")(uri "${KIPRJMOD}/DualKickAdapter-altium-import.kicad_sym")(options "")(descr ""))
+)
