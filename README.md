@@ -38,11 +38,6 @@ DualCpuAdapter, CPU1 side  | DualCpuAdapter, CPU2 side | DualKickAdapter
 :camera:![CIT Relay GH Series Pushbutton Switches to select CPU model (red on the left) and Kickstart version (green on the right)](https://github.com/users/mutedsounds/projects/1/assets/135176179/4c770e0a-ff8a-44ca-834e-0b1e27449c4a)
 |-----------------------------------------|
 
-:camera:![Selection of legacy configuration 68000 with Kickstart 1.3, CPU switch off, Kickstart switch off](https://github.com/users/mutedsounds/projects/1/assets/135176179/7f285a54-d631-4581-9c03-284ca2d2d242)
-|-----------------------------------------|
-
-:camera:![Selection of legacy CPU 68000 with Kickstart 3.2.2, CPU switch off, Kickstart switch on](https://github.com/users/mutedsounds/projects/1/assets/135176179/2aaed360-2e29-441e-9bbe-69dbc4d2bf91)
-|-----------------------------------------|
-
-:camera:![Selection of TF536 accelerator board with Kickstart 3.2.2, CPU switch on, Kickstart switch on](https://github.com/users/mutedsounds/projects/1/assets/135176179/309dac52-2971-43a3-9c62-463e57b7b171)
-|-----------------------------------------|
+Legacy configuration 68000 (switch off) with Kickstart 1.3 (switch off) | Legacy CPU 68000 (switch off) with Kickstart 3.2.2 (switch on) | TF536 accelerator (switch on) with Kickstart 3.2.2 (switch on)
+:-------------------------:|:-------------------------:|:-------------------------:
+| ![](https://github.com/mutedsounds/Amiga2000DualConfig/blob/main/Photos/Amiga2000_68000_Kick13.jpg) | ![](https://github.com/mutedsounds/Amiga2000DualConfig/blob/main/Photos/Amiga2000_68000_Kick32.jpg) | ![](https://github.com/mutedsounds/Amiga2000DualConfig/blob/main/Photos/Amiga2000_TF536_Kick32.jpg) |
