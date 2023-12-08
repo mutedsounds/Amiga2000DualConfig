@@ -19,16 +19,16 @@ The solution consists of two PCBs:
 
    d) a led illumination driver for each parameter, enabling the use of illuminated switches 
 
-3. A "DualKickstartAdapter" card that fits in the Kickstart DIP40 slot, allowing a permanent installation of two kickstart ROMs in the Amiga. Kickstart selection can be controlled either by the "DualCpuAdapter" card or by a DPDT On-On switch. 
+3. A "DualKickAdapter" card that fits in the Kickstart DIP40 slot, allowing a permanent installation of two kickstart ROMs in the Amiga. Kickstart selection can be controlled either by the "DualCpuAdapter" card or by a DPDT On-On switch. 
 
-The "DualKickstartAdapter" can be controlled by the "DualCpuAdapter" board by connecting 2 wires from the KICK1_CSn & KICK2_CSn header pins of the "DualCpuAdapter" board to the middle pins of the 2x3 header "SW DPDT", CSn_A & CSn_B.
+The "DualKickAdapter" can be controlled by the "DualCpuAdapter" board by connecting 2 wires from the KICK1_CSn & KICK2_CSn header pins of the "DualCpuAdapter" board to the middle pins of the 2x3 header "SW DPDT", CSn_A & CSn_B.
 
 The [CIT Relay GH Series](http://citrelay.com/view_switch.php?series=GH) are illuminated SPST latching off-on pushbutton switches with a small enough diameter of 10mm to be installed on the lower area of the bottom chassis of the Amiga 2000.
 
 I made this project initially for personal use. It is operational and free of license. 
 
 
-|:warning:**IMPORTANT: The KiCad files provided in the github repository have been translated from another commercial PCB design tool. I strongly advise to double check the KiCad PCB design files before sending to production. Please feel free to propose document updates.** |
+|:warning:**IMPORTANT: The KiCad files provided in the github repository have been translated from another commercial PCB design tool. The latest beta version (7.99) is required to open the files. I strongly advise to double check the KiCad PCB design files before sending to production. Please feel free to propose document updates.** |
 |-----------------------------------------|
 
 :camera:![CIT Relay GH Series Pushbutton Switches to select CPU model (red on the left) and Kickstart version (green on the right)](https://github.com/users/mutedsounds/projects/1/assets/135176179/4c770e0a-ff8a-44ca-834e-0b1e27449c4a)
